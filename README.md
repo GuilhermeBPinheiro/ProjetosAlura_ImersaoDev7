@@ -1,7 +1,7 @@
 # Projetos Alura _ Imersao Dev 7ª Edição (2023)
 
-## **Para todas as aulas!**
-**Observações:** O layout, HTML e CSS, incluindo a arte de fundo da tela, foram fornecidos pela Alura. A implementação em JavaScript foi desenvolvida para aprimorar a interatividade e a funcionalidade do projeto.
+### **OBSERVAÇÃO PARA TODAS AS AULAS!**
+> O layout, HTML e CSS, incluindo a arte de fundo da tela, foram fornecidos pela Alura. A implementação em JavaScript foi desenvolvida para aprimorar a interatividade e a funcionalidade do projeto.
 
 ## Aula 1 - Projeto: Conversor de Moedas & Criptomoedas
 
@@ -48,3 +48,29 @@
 **II.** Insira a quantidade de tentativas que você se arrisca em acertar o valor.
 **III.** Insira o número que acredita seja o correto, e repita até acertar ou acabar suas tentativas. 
 **IV.** Obtenha os resultados instantâneos na tela, com valores atualizados em tempo real ou conforme a cotação diária.
+
+## Aula 3 - Projeto Serviço de Catálogo
+
+### **CodePen:**
+
+- [Projeto - Serviço de Catálago](https://codepen.io/guilhermebpinheiro/pen/qBgoQaJ)
+  
+### **Descrição:**
+
+> Este projeto foi desenvolvido com base na 3ª aula da Imersão Dev (7ª edição - 2023) da plataforma Alura. O programa irá fornecer um catálogo de filmes, como um serviço de streaming (Netflix, Amazon Prime, HBO, etc), e com isso o usuário vai pode explorar as informações do filmes.
+
+- Vai ressalta que é necessário conhecimento sobre estruturas de repetições, e para isso vai necessita a pesquisa sobre conceitos: `for`, `while`, `forEach`, `do... while`, `for...in`, `for...of`, `switch`, `break`, `conitnue`, etc.
+
+**Observação:** 
+> Crédito para o site Elo7, que ao digitar na busca: "Big Poster", forneceu diversas imagens de cartazes de filme. Então quiser utilizar aperta [aqui](https://www.elo7.com.br/lista/big-poster?nav=m_sb).
+
+### **Versões do Projeto:**
+
+- [1ª Versão](https://github.com/GuilhermeBPinheiro/ProjetosAlura_ImersaoDev7/blob/main/js_catalago/script_v1.js): Vai fornecer uma lista de cartazes de filmes que eu gosto. 
+- [2ª Versão](https://github.com/GuilhermeBPinheiro/ProjetosAlura_ImersaoDev7/blob/main/js_catalago/script_v2.js): Vai receber cartazes de filme de usuários e vai exibir na tela. 
+- 3ª Versão (em fase de teste): Vai exibir na tela ao clicar na imagem, informações como: Nome do Filme e Ano de Lançamento.
+
+### **Instruções de Uso:**
+**I.** Insira o seu nome;
+**II.** Insira a URL;
+**III.** Obtenha os resultados instantâneos na tela, com valores atualizados em tempo real ou conforme a cotação diária
