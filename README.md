@@ -9,10 +9,10 @@ Testar o programar, clickando [**aqui**](https://codepen.io/pen?template=oNmqeVW
 Este projeto foi desenvolvido com base na 1ª aula da Imersão Dev (7ª edição - 2023) da plataforma Alura. O ponto de partida consistia em criar uma variável com um valor fixo em reais e a cotação em dólar, realizando a conversão e exibindo o resultado na tela.
 
 **Versões do Projeto:**
-* 1ª Versão: Incluir um valor de moeda fixo, e exibir na tela sua conversão em Dólar conforme cotação pré-estabelicida. 
-* 2ª Versão: Recebe um valor em moeda Real, e exibe na tela com uma formatação aprimorada, a sua cotação em Dólar, Euro e Libra conforme uma cotação pré-estabelecida. 
-* 3ª Versão: Recebe um valor em moeda Real, e exibe na tela de maneira mais refinado mais opções de cotações em tempo real conforme uma API.
-* 4ª Versão: Recebe um valor em moeda Real, e exibe na tela de mais mais refinado as cotações de moeda e critpomoedas em tempo real conforme suas respectivas APIs.
+* [1ª Versão](script_v1.js): Incluir um valor de moeda fixo, e exibir na tela sua conversão em Dólar conforme cotação pré-estabelicida. 
+* [2ª Versão](script_v2.js): Recebe um valor em moeda Real, e exibe na tela com uma formatação aprimorada, a sua cotação em Dólar, Euro e Libra conforme uma cotação pré-estabelecida. 
+* [3ª Versão](script_v3.js): Recebe um valor em moeda Real, e exibe na tela de maneira mais refinado mais opções de cotações em tempo real conforme uma API.
+* [4ª Versão](script_v4.js): Recebe um valor em moeda Real, e exibe na tela de mais mais refinado as cotações de moeda e critpomoedas em tempo real conforme suas respectivas APIs.
 * 5ª Versão (em fase teste): Escolhe qual moeda deseja saber o valor, e exibe na tela as cotações diferentes. 
 
 **Observações:**
