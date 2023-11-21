@@ -2,6 +2,9 @@
 
 ## Aula 1 **Projeto _ Conversor de Moedas & Criptomoedas**
 
+**CodePen**
+Testar o programar, clickando [**aqui**](https://codepen.io/pen?template=oNmqeVW).
+
 **Descrição:**
 Este projeto foi desenvolvido com base na 1ª aula da Imersão Dev (7ª edição - 2023) da plataforma Alura. O ponto de partida consistia em criar uma variável com um valor fixo em reais e a cotação em dólar, realizando a conversão e exibindo o resultado na tela.
 
