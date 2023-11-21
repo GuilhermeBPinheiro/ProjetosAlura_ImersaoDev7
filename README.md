@@ -7,7 +7,7 @@
 
 ### **CodePen:**
 
-- [Projeto - Conversor de Moedas & Criptomoedas](https://codepen.io/pen?template=oNmqeVW)
+- [Projeto - Conversor de Moedas & Criptomoedas](https://codepen.io/guilhermebpinheiro/pen/oNmqeVW)
 - [Projeto - Conversor de Temperatura](https://codepen.io/guilhermebpinheiro/pen/rNPdGYj)
 - [Projeto - Conversor Intergaláctico](https://codepen.io/guilhermebpinheiro/pen/dyamVdK)
 
