@@ -2,28 +2,29 @@
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Guilherme%20Bueno&uri=https%3A%2F%2Fgithub.com%2FGuilhermeBPinheiro) 
 
-### 💻 *Imersão Dev Alura - 7ª Edição (2023)*
+## 💻 Imersão Dev Alura - 7ª Edição (2023)
 
 **Orientadores:** Rafaella Ballerini, Paulo Silveira e Guilherme Lima.
-**Período:** 5 dias (13/11 a 18/11 - 2023)
-**Guia:** [Notion](https://grupoalura.notion.site/Imers-o-Dev-7-Edi-o-Guia-de-Mergulho-b293e13f028342a9ad64f57a3f0c0169)
 
-- [ ] **O que é Imersão Dev?**
+**Período:** 5 dias (13/11 a 18/11 - 2023).
+
+**Guia:** [Notion](https://grupoalura.notion.site/Imers-o-Dev-7-Edi-o-Guia-de-Mergulho-b293e13f028342a9ad64f57a3f0c0169).
+
+###  O que é Imersão Dev?
 
 É uma maneira imersiva oferecida pela Alura de aprender a linguagem de programação JavaScript (JS), por meio do desenvolvimento de projetos iniciais para realização de portifólio base de JS. 
 
 Segundo um levantamento realizado pelo GitHub no ano de 2022, a linguagem mais utilizadas em programação foi a linguagem JS ([GitHub, 2022](https://octoverse.github.com/2022/top-programming-languages)).
 
-- [ ] **Qual a importânciade Aprender Programação?**
+### Qual a importânciade Aprender Programação?
 
 Conforme alguns dados a respeito do estado do mercado de trabalho na área tech (tecnologia), percebeu que:
 - Entre as profissões em alta em 2023, segundo o LinkedIn, a maior parte são ligadas à tecnologia;
 - De acordo com o IDC Predictions Brazil 2023, o setor de TI está previsto para crescer 6,2%;
 - O relatório Futuro do Trabalho 2023 aponta que mais de 75% das empresas vão incorporar novas tecnologias nos próximos cinco anos.
 
-### CodePen
-
-- [ ] **Como Compartilhar seu CodePen:** 
+## CodePen
+**Como Compartilhar seu CodePen:** 
 - Clique em "Settings" no canto superior direito;
 - Selecione "Pen Details" (Detalhes do Projeto);
 - Dê um nome ao seu projeto no campo "Pen Title";
@@ -194,7 +195,21 @@ Aula 05 | **Desbravando Objetos e Construindo uma Tabela de Classificação**
  2. Insira o valor em reais, podendo ser com casa decimal ou não;
  3. Obtenha os resultados instantâneos na tela, com valores atualizados em tempo real ou conforme a cotação diária. 
  
-## Material de Apoio da Aula:
+
+## Metas Futuras
+| **Metas** | **Descrição** | 
+| ------ | ------ |
+| AAAA | abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789 |
+| BBBB |  |
+| CCCC |  |
+| DDD |  |
+
+**Concluídas**
+ - [ ] AAA 
+
+
+ 
+### Material de Apoio da Aula:
 - [Tech Guide – Alura](https://techguide.sh/);
 - [Expressões e Operadores](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators);
 - [JS segundo a Documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript);
