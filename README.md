@@ -4,7 +4,7 @@
 
 ## 💻 Imersão Dev Alura - 7ª Edição (2023)
 
-**Orientadores:** Rafaella Ballerini, Paulo Silveira e Guilherme Lima.
+**Orientadores:** [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini), Paulo Silveira e [Guilherme Lima](https://www.youtube.com/@guilimadev). Bônus: [Mario Souto](https://www.youtube.com/@DevSoutinho)
 
 **Período:** 5 dias (13/11 a 18/11 - 2023).
 
@@ -12,7 +12,7 @@
 
 ###  O que é Imersão Dev?
 
-É uma maneira imersiva oferecida pela Alura de aprender a linguagem de programação JavaScript (JS), por meio do desenvolvimento de projetos iniciais para realização de portifólio base de JS. 
+É uma maneira imersiva oferecida pela [Alura](https://www.youtube.com/@alura) de aprender a linguagem de programação JavaScript (JS), por meio do desenvolvimento de projetos iniciais para realização de portifólio base de JS. 
 
 Segundo um levantamento realizado pelo GitHub no ano de 2022, a linguagem mais utilizadas em programação foi a linguagem JS ([GitHub, 2022](https://octoverse.github.com/2022/top-programming-languages)).
 
@@ -36,21 +36,22 @@ Conforme alguns dados a respeito do estado do mercado de trabalho na área tech 
 | ------ | ------ |  ------ | ------ |
 | **1.** | Conversor de Medidas | [Projeto Alura - Aula 1](https://codepen.io/imersao-dev/pen/BapaBPO) | [Meu Projeto - Aula 1](https://codepen.io/guilhermebpinheiro/pen/oNmqeVW) / [Projeto Bônus 1 - Aula 1](https://codepen.io/guilhermebpinheiro/pen/rNPdGYj) /  [Projeto Bônus 2 - Aula 1](https://codepen.io/guilhermebpinheiro/pen/dyamVdK)
 | **2.** | Jogo de Adivinhação (Mentalista) | [Projeto Alura - Aula 2](https://codepen.io/imersao-dev/pen/JjZpvRQ) | [Meu Projeto - Aula 2](https://codepen.io/guilhermebpinheiro/pen/GRzxBBo) 
-| **3.** | Serviço de Catálogo (Aluraflix) | [Projeto Alura - Aula 3](https://codepen.io/imersao-dev/pen/JjZpvRQ) | [Meu Projeto - Aula 3](https://codepen.io/guilhermebpinheiro/pen/qBgoQaJ)
-| **4.**| Gerenciador de Catálogo (Aluraflix 2.0) | [Projeto Alura - Aula 4](https://codepen.io/guilhermebpinheiro/pen/eYxMXde) | [Meu Projeto - Aula 4](https://codepen.io/imersao-dev/pen/BapaBPO)
-| **5.** | Tabela de Classificação (Feedback) | [Projeto Alura - Aula 5](https://codepen.io/imersao-dev/pen/JjZpvRQ)  | [Meu Projeto - Aula 5](https://codepen.io/imersao-dev/pen/BapaBPO)
+| **3.** | Serviço de Catálogo (Aluraflix) | [Projeto Alura - Aula 3](https://codepen.io/imersao-dev/pen/JjBvBbe) | [Meu Projeto - Aula 3](https://codepen.io/guilhermebpinheiro/pen/qBgoQaJ)
+| **4.**| Gerenciador de Catálogo (Aluraflix 2.0) | [Projeto Alura - Aula 4](https://codepen.io/imersao-dev/pen/XWpWrod) | [Meu Projeto - Aula 4](https://codepen.io/imersao-dev/pen/BapaBPO)
+| **5.** | Tabela de Classificação (Feedback) | [Projeto Alura - Aula 5](https://codepen.io/imersao-dev/pen/yLgLLNY)  | [Meu Projeto - Aula 5](https://codepen.io/imersao-dev/pen/BapaBPO)
 > AVISO: Não se esqueça de fazer um fork deste projeto BASE para a sua conta e marcar as hashtags #imersaodev e #alura.
 
 **OBSERVAÇÃO PARA TODAS AS AULAS!**
 
  -  O layout, HTML e CSS, incluindo a arte de fundo da tela, foram fornecidos pela Alura. A implementação em JavaScript foi desenvolvida para aprimorar a interatividade e a funcionalidade do projeto.
 
-Aula 01 | **Mergulhe em JavaScript com um Conversor de Moedas**
+## Aula 01 | **Mergulhe em JavaScript com um Conversor de Moedas**
 
 #### Descrição:
 > Este projeto foi desenvolvido com base na 1ª aula da Imersão Dev (7ª edição - 2023) da plataforma Alura. O ponto de partida consistia em criar uma variável com um valor fixo em reais e a cotação em dólar, realizando a conversão e exibindo o resultado na tela.
 
 #### Objetivos da Aula:
+Nesta aula, nos concentraremos nas ferramentas essenciais de qualquer linguagem de programação, incluindo o uso de variáveis, operadores, arredondamento de números e interação com o console.
 - Criar uma conta no CodePen;
 - Compreender as diferenças entre HTML, CSS e JavaScript;
 - Explorar o uso de variáveis, manipulação de valores e a memória do computador;
@@ -71,18 +72,23 @@ Aula 01 | **Mergulhe em JavaScript com um Conversor de Moedas**
 | [V-4.0](https://github.com/GuilhermeBPinheiro/ProjetosAlura_ImersaoDev7/blob/main/js_conversorMoedas/script_v4.js) | Recebe um valor em moeda Real e exibe na tela, de maneira mais refinada, as cotações de moeda e criptomoedas em tempo real, conforme suas respectivas APIs |  |  |
 | [V-5.0]() | Escolhe qual moeda deseja saber o valor e exibe na tela as cotações diferentes. |  |  |
 
+- [Repostório do Códifo Final - Aula 01](https://codepen.io/guilimadev/pen/wvXyxKw)
+
+#### Dica 01: 
+> [Operadores Booleanos](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators)
+
 ### Instruções de Uso:
  1. Insira o nome do usuário;
  2. Insira o valor em reais, podendo ser com casa decimal ou não;
  3. Obtenha os resultados instantâneos na tela, com valores atualizados em tempo real ou conforme a cotação diária.
 
-Aula 02 | **Desenvolva suas Habilidades com um Jogo de Adivinhação**
+## Aula 02 | **Desenvolva suas Habilidades com um Jogo de Adivinhação**
 
 #### Descrição:
-
 > Este projeto foi desenvolvido com base na 2ª aula da Imersão Dev (7ª edição - 2023) da plataforma Alura. O ponto de partida consistia em o programa vai gerar um número de 0 a 100, e você tem que tentar advinha qual número correto.
 
 #### Objetivos da Aula:
+Na segunda aula da Imersão Dev, vamos mergulhar na criação de um  **jogo de adivinhação**. Neste desafio, o programa escolherá um número aleatório, e nosso objetivo é adivinhar esse número.
 - Realizar o fork do projeto com o template inicial;
 - Realizar testes interativos usando prompt;
 - Criar a lógica do jogo utilizando estruturas condicionais como if e else;
@@ -102,16 +108,21 @@ Aula 02 | **Desenvolva suas Habilidades com um Jogo de Adivinhação**
 | [V-4.0]() |  |  |  |
 | [V-5.0]() |  |  |  |
 
+- [Repostório do Códifo Final - Aula 02](https://codepen.io/guilimadev/pen/LYrQJLY)
+
+#### Dica 02: 
+> [Strick equality](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality);
+> [Math.random()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/random);
+
 ### Instruções de Uso:
  1. Insira o seu nome;
  2. Insira a quantidade de tentativas que você se arrisca em acertar o valor;
  3. Insira o número que acredita seja o correto, e repita até acertar ou acabar suas tentativas;
  4. Obtenha os resultados instantâneos na tela, com valores atualizados em tempo real ou conforme a cotação diária.
 
-Aula 03 | **Explore Estruturas de Dados Criando um Catálogo de Filmes**
+## Aula 03 | **Explore Estruturas de Dados Criando um Catálogo de Filmes**
 
 #### Descrição:
-
 > Este projeto foi desenvolvido com base na 3ª aula da Imersão Dev (7ª edição - 2023) da plataforma Alura. O programa irá fornecer um catálogo de filmes, como um serviço de streaming (Netflix, Amazon Prime, HBO, etc), e com isso o usuário vai pode explorar as informações do filmes.
 
 - Vale ressaltar que é necessário conhecimento sobre estruturas de repetições, e para isso vai necessita a pesquisa sobre conceitos: `for`, `while`, `forEach`, `do... while`, `for...in`, `for...of`, `switch`, `break`, `conitnue`, etc.
@@ -119,6 +130,7 @@ Aula 03 | **Explore Estruturas de Dados Criando um Catálogo de Filmes**
 > Observação: Crédito para o site Elo7, que ao digitar na busca: "Big Poster", forneceu diversas imagens de cartazes de filme. Então quiser utilizar aperta [aqui](https://www.elo7.com.br/lista/big-poster?nav=m_sb).
 
 #### Objetivos da Aula:
+Nesta aula, exploraremos **estruturas de dados** e como trabalhar com **listas**. Abordaremos os seguintes tópicos:
 - Criação de uma primeira array de filmes usando a sintaxe `[]`;
 -	Uso do método `filmes.push("Nome Do Filme")` para inserir um novo elemento na lista (ou seja, um novo filme na array);
 -	Descoberta da quantidade de elementos em uma array com o método `array.length`;
@@ -141,15 +153,20 @@ Aula 03 | **Explore Estruturas de Dados Criando um Catálogo de Filmes**
 | [V-4.0]() |  |  |  |
 | [V-5.0]() |  |  |  |
 
+- [Repostório do Códifo Final - Aula 03](https://codepen.io/guilimadev/pen/MWXQLpg)
+
+#### Dica 03: 
+> [Array](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
 ### Instruções de Uso:
  1.  Insira o seu nome;
  2. Insira a URL;
  3. Obtenha os resultados instantâneos na tela, com valores atualizados em tempo real ou conforme a cotação diária.
  
-Aula 04 | **Aprimore a Interatividade Adicionando Filmes com JavaScript**
+## Aula 04 | **Aprimore a Interatividade Adicionando Filmes com JavaScript**
 
 ####  Objetivos da Aula:
-
+No nosso **projeto AluraFlix**, utilizaremos o input para permitir a entrada de dados diretamente na tela, evitando a necessidade de inserir informações diretamente no código ou no console. Nesta aula, abordaremos os seguintes tópicos:
  - Sintaxe e criação de funções no JavaScript; 
  - Integração de funções criadas no JavaScript com o HTML exibido na tela; 
  - Condicionamento da execução (ou "chamada") de uma função a um clique em um botão na tela; 
@@ -159,9 +176,12 @@ Aula 04 | **Aprimore a Interatividade Adicionando Filmes com JavaScript**
  - Demonstração de um exemplo adicional de retribuição de variável para "limpar" o texto do campo com `""`.
  
 ####  Desafios da Aula: 
--	Criar um botão para remover um filme na tela;
-- Adicionar não apenas a imagem do filme, mas também o nome por meio de outro `input`;
-- Armazenar todos os filmes adicionados em uma lista/array e percorrê-la sempre que desejar imprimir ou remover um filme.
+-	Criar a lógica para quando ocorrer um empate, ajustar automaticamente o placar de empate para os demais jogadores;
+-  Validar se a pontuação está consistente, verificando se o número de vitórias, derrotas e empates faz sentido para cada jogador (por exemplo, não pode haver mais vitórias do que derrotas);
+-  Adicionar a imagem de cada jogador;
+-  Criar um botão para zerar todos os pontos;
+-  Incluir um botão e campos de texto para adicionar novos jogadores, juntamente com seus respectivos dados;
+-  Usar o jogo favorito como base para a pontuação na tabela de classificação.
 
 | **Nº Versão** | **Descrição** | **Requisito** | **Última Atualização** |
 | ------ | ------ |  ------ | ------ |
@@ -171,14 +191,25 @@ Aula 04 | **Aprimore a Interatividade Adicionando Filmes com JavaScript**
 | [V-4.0]() |  |  |  |
 | [V-5.0]() |  |  |  |
 
+- [Repostório do Códifo Final - Aula 04](https://codepen.io/guilimadev/pen/ExRQMdp)
+
+#### Dica 04: 
+> ClipDrop
+
 ### Instruções de Uso:
  1. Insira o nome do usuário;
  2. Insira o valor em reais, podendo ser com casa decimal ou não;
  3. Obtenha os resultados instantâneos na tela, com valores atualizados em tempo real ou conforme a cotação diária. 
 
-Aula 05 | **Desbravando Objetos e Construindo uma Tabela de Classificação**
+## Aula 05 | **Desbravando Objetos e Construindo uma Tabela de Classificação**
 
 ####  Objetivos da Aula:
+Nesta aula da Imersão Dev, mergulharemos no mundo da programação e aprenderemos a criar uma **tabela de classificação**.
+- Remover o código estático do HTML;
+- Criar um objeto no JavaScript para cada jogador;
+- Criar uma função que receba um objeto como parâmetro para calcular os pontos;
+- Exibir o objeto na página HTML;
+- Criar uma função para adicionar vitórias, outra para adicionar empates e uma última para adicionar derrotas.
 
 ####  Desafios da Aula: 
 
@@ -190,12 +221,16 @@ Aula 05 | **Desbravando Objetos e Construindo uma Tabela de Classificação**
 | [V-4.0]() |  |  |  |
 | [V-5.0]() |  |  |  |
 
+- [Repostório do Códifo Final - Aula 05](https://codepen.io/guilimadev/pen/gOKvyyG)
+
+#### Dica 04: 
+> [GitHub Copilot](https://github.com/features/copilot)
+
 ### Instruções de Uso:
  1. Insira o nome do usuário;
  2. Insira o valor em reais, podendo ser com casa decimal ou não;
  3. Obtenha os resultados instantâneos na tela, com valores atualizados em tempo real ou conforme a cotação diária. 
  
-
 ## Metas Futuras
 | **Metas** | **Descrição** | 
 | ------ | ------ |
@@ -207,16 +242,19 @@ Aula 05 | **Desbravando Objetos e Construindo uma Tabela de Classificação**
 **Concluídas**
  - [ ] AAA 
 
-
- 
 ### Material de Apoio da Aula:
 - [Tech Guide – Alura](https://techguide.sh/);
-- [Expressões e Operadores](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators);
-- [JS segundo a Documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript);
-- [Evolução do JavaScript](https://www.youtube.com/watch?v=Bmw_6oOvO3s&ab_channel=Alura);
-- [Strick equality](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality);
-- [Math.random()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/random);
-- [Operadores  de JScript](https://www.alura.com.br/artigos/operadores-matematicos-em-javascript?_gl=1*lb5wd9*_ga*MTg4NDAzMzczOS4xNjk5ODc1NzE4*_ga_1EPWSW3PCS*MTcwMDU4OTk5My4xNC4xLjE3MDA1OTAwMDYuMC4wLjA.*_fplc*Mmt2WXJ0dmUzU1RKOUx6SmRHdkpuJTJCS1Zaa1NEU2RIU1FWQzdlSGJnYndwenclMkJFRk5yMG1LUFVJWkpvVEtGayUyRjB3Q2hkQm10TCUyRnZOSWolMkZOMlZFN1JQREtUbHl1a3M1Z2ZZaHZlOE0zaExCRSUyRnpqZDZaT2Uzd3htOFY4WGZBJTNEJTNE);
-- [Array](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array);
+- [CodePen - Editor de Código Online](https://codepen.io/your-work);
+- [ChatGPT - OpenAI](https://chat.openai.com/);
+- [Bard - Google](https://bard.google.com/chat);
 - [MIDJOURNEY](https://www.youtube.com/watch?v=QUoyCfFQUqI&ab_channel=Alura);
-- [Abrir CodePen no VSCode](https://www.youtube.com/watch?v=xvkuNF_8Coc&ab_channel=GuiLimaDev).
+- [JavaScript - Documentação Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript);
+-  [O que é JavaScript - HipstersPontoTube (Alura)](https://www.youtube.com/watch?v=NaVSbnnV75Q)
+- [Evolução do JavaScript - Hipsters.Talks(Alura)](https://www.youtube.com/watch?v=Bmw_6oOvO3s&ab_channel=Alura);
+- [Primeiros Passos na Programação - HipstersPontoTech(Alura)](https://www.hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/);
+- [Playlist Scuba Dev (Alura)](https://www.youtube.com/watch?v=wr9w6E9hHE4&list=PLh2Y_pKOa4UekCLUlAmQ89uSMWNlHvhR3&ab_channel=Alura);
+- [Operadores  de JScript(Alura)](https://www.alura.com.br/artigos/operadores-matematicos-em-javascript?_gl=1*13des3d*_ga*MTg4NDAzMzczOS4xNjk5ODc1NzE4*_ga_1EPWSW3PCS*MTcwMDY5NzczMy4yMS4xLjE3MDA2OTc3MzYuMC4wLjA.*_fplc*M0RiUUUwekdLd3RZTDRubU55anF3U2syRDdacHM1YXRBTEpQamVleVI3VXhGTHNaaGtNUDVhYUtRSW9SSm1LMktBeXc4M2xTQk10WERhdU5iSExjOTM0ZUczUFdyJTJCcGRQQTVGS1RpMUhDZzRYTGN3bEhjNXl0MWFCU1lTeHclM0QlM0Q.);
+- [O que é GitHub? (Alura)](https://www.youtube.com/watch?v=nec3n02idMw&ab_channel=Alura);
+- [Iteradores com JavaScripts: While e For (Alura)](https://www.youtube.com/watch?v=c8Zac9hWbs8&ab_channel=Alura);
+- [Primeira Aula da Imersão em Python(Alura)](https://www.youtube.com/watch?v=DsFb24TgJ0c&ab_channel=GuiLimaDev);
+- [Abrir CodePen no VSCode (Alura)](https://www.youtube.com/watch?v=xvkuNF_8Coc&ab_channel=GuiLimaDev).
